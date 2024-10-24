@@ -1,0 +1,15 @@
+C:\Users\corso\EstruturaAULA\GNOMEESORT\gnomeSort\GNOMESORTE\bin\Debug\net8.0\GNOMESORTE.exe
+C:\Users\corso\EstruturaAULA\GNOMEESORT\gnomeSort\GNOMESORTE\bin\Debug\net8.0\GNOMESORTE.deps.json
+C:\Users\corso\EstruturaAULA\GNOMEESORT\gnomeSort\GNOMESORTE\bin\Debug\net8.0\GNOMESORTE.runtimeconfig.json
+C:\Users\corso\EstruturaAULA\GNOMEESORT\gnomeSort\GNOMESORTE\bin\Debug\net8.0\GNOMESORTE.dll
+C:\Users\corso\EstruturaAULA\GNOMEESORT\gnomeSort\GNOMESORTE\bin\Debug\net8.0\GNOMESORTE.pdb
+C:\Users\corso\EstruturaAULA\GNOMEESORT\gnomeSort\GNOMESORTE\obj\Debug\net8.0\GNOMESORTE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corso\EstruturaAULA\GNOMEESORT\gnomeSort\GNOMESORTE\obj\Debug\net8.0\GNOMESORTE.AssemblyInfoInputs.cache
+C:\Users\corso\EstruturaAULA\GNOMEESORT\gnomeSort\GNOMESORTE\obj\Debug\net8.0\GNOMESORTE.AssemblyInfo.cs
+C:\Users\corso\EstruturaAULA\GNOMEESORT\gnomeSort\GNOMESORTE\obj\Debug\net8.0\GNOMESORTE.csproj.CoreCompileInputs.cache
+C:\Users\corso\EstruturaAULA\GNOMEESORT\gnomeSort\GNOMESORTE\obj\Debug\net8.0\GNOMESORTE.sourcelink.json
+C:\Users\corso\EstruturaAULA\GNOMEESORT\gnomeSort\GNOMESORTE\obj\Debug\net8.0\GNOMESORTE.dll
+C:\Users\corso\EstruturaAULA\GNOMEESORT\gnomeSort\GNOMESORTE\obj\Debug\net8.0\refint\GNOMESORTE.dll
+C:\Users\corso\EstruturaAULA\GNOMEESORT\gnomeSort\GNOMESORTE\obj\Debug\net8.0\GNOMESORTE.pdb
+C:\Users\corso\EstruturaAULA\GNOMEESORT\gnomeSort\GNOMESORTE\obj\Debug\net8.0\GNOMESORTE.genruntimeconfig.cache
+C:\Users\corso\EstruturaAULA\GNOMEESORT\gnomeSort\GNOMESORTE\obj\Debug\net8.0\ref\GNOMESORTE.dll
